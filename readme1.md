@@ -1,4 +1,4 @@
-# Mon Portfolio – Hafssa CHKOUKED
+# Mon Portfolio 
 
 Portfolio personnel développé avec **React**, **TypeScript**, **Vite** et **Tailwind CSS**.  
 Présentation de mes projets, expériences, formations et certifications.
@@ -26,6 +26,7 @@ npm install
 npm run dev
 
 Ouvrez http://localhost:5173 pour visualiser le site.
+```
 
 ## 🛠️ Commandes disponibles
 Commande	Action
@@ -35,22 +36,27 @@ npm run preview	Prévisualise la version compilée
 
 ## 🌐 Déploiement
 Le site est déployé sur Vercel (ou GitHub Pages).
-Lien public : https://mon-portfolio.vercel.app
+Lien public : [https://mon-portfolio.vercel.app](https://vercel.com/hafssachk846-4433s-projects/projetfinal-react)
 
 ## 📄 Contenu
-Page d’accueil avec présentation et compétences
+- Page d’accueil avec présentation et compétences
 
-Liste des projets
+- Liste des projets
 
-Parcours professionnel (stages, enseignement)
+- Parcours professionnel (stages, enseignement)
 
-Formations académiques
+- Formations académiques
 
-Certifications avec filtrage
+- Certifications avec filtrage
 
-Contact et liens sociaux
+- Contact et liens sociaux
+## Resultat 
 
-##👤 Auteur
+
+https://github.com/user-attachments/assets/5795dc89-a9e6-4cd0-ae9a-3597f1c61918
+
+
+## 👤 Auteur
 Hafssa CHKOUKED
 Étudiante en dernière année de Licence Informatique
 encadre par : Mohamed Lachgar
