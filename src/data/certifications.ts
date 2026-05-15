@@ -2,16 +2,16 @@
 export type Certification = {
   title: string;
   issuer: string;
-  issueDate: string;    // "YYYY-MM"
+  issueDate: string;    
   expiryDate?: string;
   credentialId?: string;
   credentialUrl?: string;
   skills?: string[];
   tags?: string[];
-  image?: string;       // "/certs/nom.webp"
+  image?: string;       
   imageAlt?: string;
   status?: "active" | "expired";
-  score?: string;       // pour afficher le score
+  score?: string;       
 };
 
 export const certifications: Certification[] = [

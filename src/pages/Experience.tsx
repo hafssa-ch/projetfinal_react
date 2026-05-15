@@ -6,7 +6,7 @@ const experiences = [
     period: '2023 – 2026 · 3 ans',
     company: 'Lycée Mhamid9, Collège Nahda, Lycée Ghandi',
     description: [
-      'Cours de programmation (Python, C++) et bureautique.',
+      'Cours de programmation (Python) et bureautique.',
       'Préparation d’examens et suivi de projets élèves.',
     ],
   },
